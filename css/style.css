@@ -1,0 +1,150 @@
+body{
+    background-image: url(../image/achtergrond.jpg);
+    color: black;
+    font-family: monospace;
+}
+
+label{
+    position: relative;
+    padding: 5px;
+}
+
+a{
+    text-decoration: none;
+    color: black;
+}
+
+#headertext{
+    height: 100px;
+    width: 600px;
+    font-size: 55px;
+    position: relative;
+    font-weight: bold;
+    left: 510px;
+    color: #ffb600;
+    text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+}
+
+.text{
+    font-size: 15px;
+    font-weight: bold;
+    position: relative;
+    left: 5px;
+    padding: 10px;
+}
+
+#hoofdtext{
+    font-size: 20px;
+    font-weight: bolder;
+    position: relative;
+}
+
+#id{
+    cursor: not-allowed;
+    pointer-events: none;
+}
+
+#producten{
+    height: 20px;
+    width: 200px;
+    position: absolute;
+    background-color: #4CAF50;
+    text-align: center;
+    border-radius: 10px;
+    color: black;
+    left: 670px;
+    top: 500px;
+}
+
+#producten:hover{
+    background-color: lightgreen;
+}
+
+#submit{
+    left: 150px;
+    position: relative;
+    top: 10px;
+    background-color: #4CAF50;
+    height: 35px;
+    width: 70px;
+    border: none;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px black;
+}
+
+#submit:hover{
+    background-color: lightgreen;
+}
+
+#blokje{
+    position: absolute;
+    width: 400px;
+    height: 280px;
+    background-color: rgba(255, 255, 255, 0.83);
+    border-radius: 20px;
+    left: 580px;
+    top: 190px;
+}
+
+.invulveld{
+    position: relative;
+    border-radius: 5px;
+    border-width: 1px;
+    border-color: black;
+    padding: 3px;
+}
+
+#tafel{
+    border-collapse: collapse;
+    width: 100%;
+    color: black;
+    background-color: rgba(255, 255, 255, 0.83);
+}
+
+#tafelruft{
+    padding: 8px;
+    text-align: left;
+    border-bottom: 1px solid black;
+
+}
+
+#nlnaam1{
+    font-size: 20px;
+}
+
+#prijs1{
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
